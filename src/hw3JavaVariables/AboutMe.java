@@ -20,6 +20,7 @@ public class AboutMe {
 		AboutMe aboutMe = new AboutMe();
 		System.out.println("My name is: " + aboutMe.myName + "\nMy Age is: " + aboutMe.myAge + "\nMy gender is: "
 				+ aboutMe.gender);
+		
 	}
 
 }
