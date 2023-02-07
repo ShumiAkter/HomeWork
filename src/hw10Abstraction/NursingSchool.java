@@ -1,0 +1,10 @@
+package hw10Abstraction;
+
+public abstract class NursingSchool{
+	
+	public abstract void hygiene();
+	public void caring() {
+		System.out.println("This is from non abstract method from NursingSchool class ");	
+	}
+
+}
